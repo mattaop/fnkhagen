@@ -5,7 +5,7 @@ import { Navbar, Container, Nav } from "react-bootstrap";
 export default class Menu extends Component {
   render() {
     return (
-      <nav class="navbar navbar-default navbar-fixed-top navbar-expand-sm bg-light navbar-light">
+      <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <ul class="navbar-nav">
           <li class="nav-item">
             <a class="nav-link" href="#">
